@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jaxkashif34
-- 👀 I’m interested in making web Apps and WebSite
-- 🌱 I’m currently learning react.js
+- 👋 Hi, I’m @jaxkashif34.
+- 👀 I’m interested in making web Apps and WebSites.
+- 🌱 I’m currently learning react.js.
 - 💞️ I’m looking to collaborate on web projects.
-- 📫 How to reach me jaxkashif34@gmail.com
+- 📫 How to reach me jaxkashif34@gmail.com.
 
 <!---
 jaxkashif34/jaxkashif34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
