@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaxkashif34.
+- 👋 Hi, I’m kashif Ali.
 - 👀 I’m interested in making web Apps.
 - 🌱 I’m currently learning react.js.
 - 💞️ I’m looking to collaborate on web projects.
