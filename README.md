@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaxkashif34.
-- 👀 I’m interested in making web Apps and WebSites.
+- 👀 I’m interested in making web Apps.
 - 🌱 I’m currently learning react.js.
 - 💞️ I’m looking to collaborate on web projects.
 - 📫 How to reach me jaxkashif34@gmail.com.
