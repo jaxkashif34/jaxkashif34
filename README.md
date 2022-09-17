@@ -41,6 +41,7 @@ I am Kashif Ali from Faisalabad, Pakistan <img src="https://i.pinimg.com/origina
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+<img alt="Tailwindcss" src="https://img.shields.io/badge/-TailwindCss-38bdf8?style=flat-square&logo=tailwindCSS=white" />
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?&logo=Express.JS)
 <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
@@ -58,7 +59,7 @@ I am Kashif Ali from Faisalabad, Pakistan <img src="https://i.pinimg.com/origina
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-<img alt="Styled Components" src="https://img.shields.io/badge/-Prisma-1a202c?style=flat-square&logo=prisma&logoColor=white" />
+<img alt="Prisma" src="https://img.shields.io/badge/-Prisma-1a202c?style=flat-square&logo=prisma&logoColor=white" />
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
