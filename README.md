@@ -58,10 +58,11 @@ I am Kashif Ali from Faisalabad, Pakistan <img src="https://i.pinimg.com/origina
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<img alt="Styled Components" src="https://img.shields.io/badge/-Prisma-1a202c?style=flat-square&logo=prisma&logoColor=white" />
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-# Quiz Time 😵❓
+# What Happened 😵❓
 
 ## <p>If you are in a spaceship that is traveling at the speed of light, and you turn on the headlights, does anything happen ?<p>
 
