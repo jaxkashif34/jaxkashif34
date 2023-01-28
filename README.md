@@ -3,7 +3,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I am Kashif Ali from Faisalabad, Pakistan <img src="https://i.pinimg.com/originals/fa/51/af/fa51af5668a3be99531f41bf8460e262.jpg" style="border-radius:50%;" width="15"/> people call me Kashi, I'm a 3nd-year Graduate Student at [The University of Faisalabad](https://tuf.edu.pk/). I am a Full Stack Developer Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Kashif Ali from Faisalabad, Pakistan <img src="https://i.pinimg.com/originals/fa/51/af/fa51af5668a3be99531f41bf8460e262.jpg" style="border-radius:50%;" width="15"/>. I am a Full Stack Developer Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![GitHub Badge](https://img.shields.io/badge/-jaxkashif34-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/jaxkashif34)](https://github.com/jaxkashif34)
 [![Linkedin Badge](https://img.shields.io/badge/-jaxkashif34-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashif-ali-ba8241196/)](https://www.linkedin.com/in/kashif-ali-ba8241196/)
