@@ -3,7 +3,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I am Kashif Ali from Faisalabad, Pakistan <img src="https://i.pinimg.com/originals/fa/51/af/fa51af5668a3be99531f41bf8460e262.jpg" style="border-radius:50%;" width="15"/>. I am a Full Stack Developer Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Kashif Ali from Faisalabad, Pakistan <img src="https://i.pinimg.com/originals/fa/51/af/fa51af5668a3be99531f41bf8460e262.jpg" style="border-radius:50%;" width="15"/>. I am a highly skilled and experienced full-stack developer with a strong background in web development, software engineering, and database management. I have extensive experience in designing, developing, and deploying web applications.I am a self-motivated individual who is always eager to learn new technologies and stay up-to-date with the latest industry trends. I am a team player who can work well with others to deliver high-quality projects on time.I am currently available for work and open to new opportunities. If you are looking for a full-stack developer who can bring your ideas to life and help your business grow, please feel free to reach out to me.
 
 [![GitHub Badge](https://img.shields.io/badge/-jaxkashif34-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/jaxkashif34)](https://github.com/jaxkashif34)
 [![Linkedin Badge](https://img.shields.io/badge/-jaxkashif34-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashif-ali-ba8241196/)](https://www.linkedin.com/in/kashif-ali-ba8241196/)
